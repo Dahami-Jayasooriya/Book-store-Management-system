@@ -1,0 +1,3 @@
+BookStoreManagementSystem
+Book.Store.Management.System.BookStoreManagementSystem
+BookStoreManagementSystem$BookStoreManagementSystem
